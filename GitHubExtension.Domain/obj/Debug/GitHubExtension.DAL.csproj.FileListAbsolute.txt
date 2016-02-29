@@ -1,0 +1,10 @@
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\bin\Debug\GitHubExtension.Domain.dll.config
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\bin\Debug\GitHubExtension.Domain.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\bin\Debug\GitHubExtension.Domain.pdb
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\bin\Debug\EntityFramework.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\bin\Debug\EntityFramework.xml
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\obj\Debug\GitHubExtension.DAL.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\obj\Debug\GitHubExtension.Domain.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Domain\obj\Debug\GitHubExtension.Domain.pdb

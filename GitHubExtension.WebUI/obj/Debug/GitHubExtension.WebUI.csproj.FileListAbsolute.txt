@@ -1,0 +1,6 @@
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.WebUI\bin\GitHubExtension.WebUI.dll.config
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.WebUI\bin\GitHubExtension.WebUI.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.WebUI\bin\GitHubExtension.WebUI.pdb
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.WebUI\obj\Debug\GitHubExtension.WebUI.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.WebUI\obj\Debug\GitHubExtension.WebUI.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.WebUI\obj\Debug\GitHubExtension.WebUI.pdb

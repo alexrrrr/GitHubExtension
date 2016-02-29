@@ -1,0 +1,4 @@
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Entities\bin\Debug\GitHubExtension.Entities.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Entities\bin\Debug\GitHubExtension.Entities.pdb
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Entities\obj\Debug\GitHubExtension.Entities.dll
+\\psf\Home\Desktop\Kv-013-develop\DevelopGitHub\GitHubExtension\GitHubExtension.Entities\obj\Debug\GitHubExtension.Entities.pdb
