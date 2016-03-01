@@ -18,7 +18,7 @@ namespace GitHubExtension.Tests
         [Fact]
         public void Test1()
         {
-            Assert.Equal(2, 8);
+            Assert.Equal(2, 9);
         }
     }
 }
